@@ -1,6 +1,7 @@
 ---
 applyTo: "**/pt-logos-*/**"
 ---
+
 # Logos Team Instructions
 
 ## GitHub Actions
