@@ -6,7 +6,7 @@ Logos team-level Copilot instructions for the [osinfra-io](https://github.com/os
 
 This repository is the **logos team level** of a three-level GitHub Copilot instruction hierarchy. Instructions here apply to all `pt-logos-*` repositories.
 
-```
+```none
 Platform   pt-ai-context                   ← universal conventions for all pt-* repos
   └── Team   pt-logos-ai-context           ← this repo (applies to all pt-logos-* repos)
         └── Repo   .github/copilot-instructions.md   ← in every repo (repo-specific only)
