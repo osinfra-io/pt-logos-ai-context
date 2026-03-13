@@ -12,8 +12,6 @@ Logos uses a three-tier deployment workflow:
 - **`non-production.yml`** — runs on merge to `main`; deploys to non-production
 - **`production.yml`** — runs automatically after non-production succeeds
 
-When modifying workflows, update the Mermaid diagram in `README.md` to reflect the changes.
-
 ## Repository Practices
 
 - Local development does not have access to OpenTofu state — plans and applies run exclusively in GitHub Actions.
