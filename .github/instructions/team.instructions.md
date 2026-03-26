@@ -1,5 +1,5 @@
 ---
-applyTo: "**/pt-logos-*/**"
+applyTo: "**/pt-logos*/**"
 ---
 
 # Logos Team Instructions
